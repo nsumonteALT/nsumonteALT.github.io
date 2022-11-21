@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: El repo ya está andando
 ---
 
 Hola, espero que esten entendiendo como hacer el blog!
