@@ -1,7 +1,7 @@
 ---
-layout:post
-title: Hola! este es el primer articulo para MIA UC
+layout: post
+title: primer articulo
 ---
 
-## Sección 1
+Sección 1
 hola!
